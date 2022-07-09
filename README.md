@@ -1,5 +1,5 @@
 # Bot WibxPrice
-- Este bot tem como objetivo enviar o preço do token Wibx a cada 30 minutos em um canal específico do Telegram e também enviar o preço atual ao receber uma mensagem no privado.
+- Este bot tem como objetivo enviar o preço atual do token Wibx a cada 30 minutos em um canal específico do Telegram e também enviar o preço atual ao receber uma mensagem no privado.
 
 ## 💻 Funcionamento do bot
 
