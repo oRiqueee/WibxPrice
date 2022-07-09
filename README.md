@@ -12,7 +12,7 @@
 💡 O bot não foi hospedado, foi desenvolvido apenas para estudo.
 <br/><br/>
 
-![](https://i.imgur.com/dweTRps.png)
+![](https://i.imgur.com/6Ryl2bv.png)
 
 ## 📬 Licença
 
