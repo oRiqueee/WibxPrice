@@ -54,8 +54,6 @@ if (dia = 1) {
     
     bot.on('message', (msg)=>{
        const chatId = msg.chat.id;
-       const firstName = msg.from.first_name;
-       console.log(msg, chatId);
        bot.sendMessage(chatId, "🕗 Preço às: " + horaAtual + "\n\n" + priceFinal + "\n\n" + sobeDesce)
        return true;
     })
